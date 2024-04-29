@@ -1,0 +1,68 @@
+D:\C#\CourseProjectGemoetry\CourseProjectGemoetry\bin\Debug\CourseProjectGemoetry.exe.config
+D:\C#\CourseProjectGemoetry\CourseProjectGemoetry\bin\Debug\CourseProjectGemoetry.exe
+D:\C#\CourseProjectGemoetry\CourseProjectGemoetry\bin\Debug\CourseProjectGemoetry.pdb
+D:\C#\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.AssemblyReference.cache
+D:\C#\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.Form1.resources
+D:\C#\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.Properties.Resources.resources
+D:\C#\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.GenerateResource.cache
+D:\C#\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.CoreCompileInputs.cache
+D:\C#\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.exe
+D:\C#\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.pdb
+D:\C#\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.HelpForm.resources
+C:\Users\mirko\Downloads\CourseProjectGemoetry\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.AssemblyReference.cache
+C:\Users\mirko\Downloads\CourseProjectGemoetry\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.exe
+C:\Users\mirko\Downloads\CourseProjectGemoetry\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.pdb
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.AssemblyReference.cache
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.exe
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.pdb
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry\CourseProjectGemoetry\bin\Debug\CourseProjectGemoetry.exe.config
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry\CourseProjectGemoetry\bin\Debug\CourseProjectGemoetry.exe
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry\CourseProjectGemoetry\bin\Debug\CourseProjectGemoetry.pdb
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.Form1.resources
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.HelpForm.resources
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.Properties.Resources.resources
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.GenerateResource.cache
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.CoreCompileInputs.cache
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.ResizeForm.resources
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry - Copy\CourseProjectGemoetry\bin\Debug\CourseProjectGemoetry.exe.config
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry - Copy\CourseProjectGemoetry\bin\Debug\CourseProjectGemoetry.exe
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry - Copy\CourseProjectGemoetry\bin\Debug\CourseProjectGemoetry.pdb
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.AssemblyReference.cache
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.Form1.resources
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.HelpForm.resources
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.Properties.Resources.resources
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.ResizeForm.resources
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.GenerateResource.cache
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.CoreCompileInputs.cache
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.exe
+D:\C# tasks\CourseProjectGemoetry\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.pdb
+D:\C#\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.AssemblyReference.cache
+D:\C#\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.exe
+D:\C#\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.pdb
+D:\C#\CourseProjectGemoetry - Copy\CourseProjectGemoetry\bin\Debug\CourseProjectGemoetry.exe.config
+D:\C#\CourseProjectGemoetry - Copy\CourseProjectGemoetry\bin\Debug\CourseProjectGemoetry.exe
+D:\C#\CourseProjectGemoetry - Copy\CourseProjectGemoetry\bin\Debug\CourseProjectGemoetry.pdb
+D:\C#\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.Form1.resources
+D:\C#\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.HelpForm.resources
+D:\C#\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.Properties.Resources.resources
+D:\C#\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.ResizeForm.resources
+D:\C#\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.GenerateResource.cache
+D:\C#\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.CoreCompileInputs.cache
+D:\C#\CourseProjectGemoetry - Copy\CourseProjectGemoetry\bin\Debug\Newtonsoft.Json.dll
+D:\C#\CourseProjectGemoetry - Copy\CourseProjectGemoetry\bin\Debug\Newtonsoft.Json.xml
+D:\C#\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.CopyComplete
+D:\C# tasks\CourseProjectGemoetry - Copy2\CourseProjectGemoetry - Copy\CourseProjectGemoetry\bin\Debug\CourseProjectGemoetry.exe.config
+D:\C# tasks\CourseProjectGemoetry - Copy2\CourseProjectGemoetry - Copy\CourseProjectGemoetry\bin\Debug\CourseProjectGemoetry.exe
+D:\C# tasks\CourseProjectGemoetry - Copy2\CourseProjectGemoetry - Copy\CourseProjectGemoetry\bin\Debug\CourseProjectGemoetry.pdb
+D:\C# tasks\CourseProjectGemoetry - Copy2\CourseProjectGemoetry - Copy\CourseProjectGemoetry\bin\Debug\Newtonsoft.Json.dll
+D:\C# tasks\CourseProjectGemoetry - Copy2\CourseProjectGemoetry - Copy\CourseProjectGemoetry\bin\Debug\Newtonsoft.Json.xml
+D:\C# tasks\CourseProjectGemoetry - Copy2\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.AssemblyReference.cache
+D:\C# tasks\CourseProjectGemoetry - Copy2\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.Form1.resources
+D:\C# tasks\CourseProjectGemoetry - Copy2\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.HelpForm.resources
+D:\C# tasks\CourseProjectGemoetry - Copy2\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.Properties.Resources.resources
+D:\C# tasks\CourseProjectGemoetry - Copy2\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.ResizeForm.resources
+D:\C# tasks\CourseProjectGemoetry - Copy2\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.GenerateResource.cache
+D:\C# tasks\CourseProjectGemoetry - Copy2\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.csproj.CoreCompileInputs.cache
+D:\C# tasks\CourseProjectGemoetry - Copy2\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CoursePr.88D8622B.Up2Date
+D:\C# tasks\CourseProjectGemoetry - Copy2\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.exe
+D:\C# tasks\CourseProjectGemoetry - Copy2\CourseProjectGemoetry - Copy\CourseProjectGemoetry\obj\Debug\CourseProjectGemoetry.pdb

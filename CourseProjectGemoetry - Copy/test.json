@@ -1,0 +1,35 @@
+{
+  "$type": "System.Collections.Generic.List`1[[CourseProjectGemoetry.Figure, CourseProjectGemoetry]], mscorlib",
+  "$values": [
+    {
+      "$type": "CourseProjectGemoetry.Figure_classes.TriangleFigure, CourseProjectGemoetry",
+      "FillColor": "64, 0, 64",
+      "PenColor": "255, 128, 128",
+      "StrokeSize": 10,
+      "X": 555,
+      "Y": 582,
+      "Width": 100,
+      "Height": 100
+    },
+    {
+      "$type": "CourseProjectGemoetry.RectangleFigure, CourseProjectGemoetry",
+      "FillColor": "Transparent",
+      "PenColor": "Black",
+      "StrokeSize": 2,
+      "X": 861,
+      "Y": 388,
+      "Width": 242,
+      "Height": 128
+    },
+    {
+      "$type": "CourseProjectGemoetry.EllipseFigure, CourseProjectGemoetry",
+      "FillColor": "Transparent",
+      "PenColor": "Black",
+      "StrokeSize": 2,
+      "X": 407,
+      "Y": 115,
+      "Width": 165,
+      "Height": 164
+    }
+  ]
+}
